@@ -9,6 +9,7 @@ Full-stack developer since 2012 — PHP and JavaScript early on, then Ruby on Ra
 
 ### Blog posts
 
+- [Stop mounting your LiveView twice](https://elixirdrops.net/d/9mrw2kg3)
 - [Dripping Elixir knowledge](https://optimum.ba/blog/dripping-elixir-knowledge)
 - [Elixir DevOps series](https://optimum.ba/blog/elixir-devops-series)
   - [Maintaining GitHub Actions workflows](https://optimum.ba/blog/maintaining-github-actions-workflows)
