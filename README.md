@@ -1,9 +1,10 @@
-## Builder at [Optimum](https://optimum.ba)
+## AI agents manager
 
 Full-stack developer since 2012 — PHP and JavaScript early on, then Ruby on Rails, and Elixir since 2017. These days I'm fully focused on AI-powered products with Elixir and Phoenix.
 
 ### Projects
 
+- [Combobulate](https://combobulate.dev) — Build your websites just by chatting
 - [ElixirDrops](https://elixirdrops.net) — Elixir code snippets, shared by the community
 - [Skeptic.bot](https://skeptic.bot) — Podcast research assistant
 
