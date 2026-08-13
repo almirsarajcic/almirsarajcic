@@ -1,27 +1,27 @@
-## AI agents manager
+# I build coding-agent tooling in Elixir
 
 Full-stack developer since 2012 — PHP and JavaScript early on, then Ruby on Rails, and Elixir since 2017. These days I'm fully focused on AI-powered products with Elixir and Phoenix.
 
-### Projects
+## Projects
 
 - [Combobulate](https://combobulate.dev) — Build your websites just by chatting
 - [ElixirDrops](https://elixirdrops.net) — Elixir code snippets, shared by the community
 - [Skeptic.bot](https://skeptic.bot) — Podcast research assistant
 
-### Blog posts
+## Writing
 
 - [Stop mounting your LiveView twice](https://elixirdrops.net/d/9mrw2kg3)
-- [Dripping Elixir knowledge](https://optimum.ba/blog/dripping-elixir-knowledge)
-- [Elixir DevOps series](https://optimum.ba/blog/elixir-devops-series)
-  - [Maintaining GitHub Actions workflows](https://optimum.ba/blog/maintaining-github-actions-workflows)
-  - [Optimum Elixir CI with GitHub Actions](https://optimum.ba/blog/optimum-elixir-ci-with-github-actions)
-  - [Testing Elixir releases in CI](https://optimum.ba/blog/testing-elixir-releases-in-ci)
-  - [Feature preview (PR review) apps on Fly.io](https://optimum.ba/blog/feature-preview-pr-review-apps-on-fly-io)
-  - [Zero downtime deployments with Fly.io](https://optimum.ba/blog/zero-downtime-deployments-with-fly-io)
-  - [Optimum infrastructure generator](https://optimum.ba/blog/optimum-infrastructure-generator)
-- [phx.tools: Complete Development Environment for Elixir and Phoenix](https://optimum.ba/blog/phx-tools-complete-development-environment-for-elixir-and-phoenix)
+- [Dripping Elixir knowledge](https://optimum.ba/blog/dripping-elixir-knowledge/)
+- [Elixir DevOps series](https://optimum.ba/blog/elixir-devops-series/) — CI/CD for Elixir, in six parts
+  - [Maintaining GitHub Actions workflows](https://optimum.ba/blog/maintaining-github-actions-workflows/)
+  - [Optimum Elixir CI with GitHub Actions](https://optimum.ba/blog/optimum-elixir-ci-with-github-actions/)
+  - [Testing Elixir releases in CI](https://optimum.ba/blog/testing-elixir-releases-in-ci/)
+  - [Feature preview (PR review) apps on Fly.io](https://optimum.ba/blog/feature-preview-pr-review-apps-on-fly-io/)
+  - [Zero downtime deployments with Fly.io](https://optimum.ba/blog/zero-downtime-deployments-with-fly-io/)
+  - [Optimum infrastructure generator](https://optimum.ba/blog/optimum-infrastructure-generator/)
+- [phx.tools: Complete Development Environment for Elixir and Phoenix](https://optimum.ba/blog/phx-tools-complete-development-environment-for-elixir-and-phoenix/)
 
-### Testimonials
+## Testimonials
 
 > Almir is a very sharp and capable developer. Highly recommended.
 
@@ -41,4 +41,6 @@ Full-stack developer since 2012 — PHP and JavaScript early on, then Ruby on Ra
 
 ---
 
-Not actively taking on new projects, but if you're building something at the intersection of Elixir and AI — reach out at [projects@optimum.ba](mailto:projects@optimum.ba)
+**Available from September 2026** for full-time or contract work, remote. Coding agents, developer tooling, and Elixir are the obvious fit — but I'll look at anything with a hard problem in it.
+
+[almirsarajcic.com](https://almirsarajcic.com) · [almir@optimum.ba](mailto:almir@optimum.ba)
