@@ -1,9 +1,10 @@
 # I build coding-agent tooling in Elixir
 
-Full-stack developer since 2012 — PHP and JavaScript early on, then Ruby on Rails, and Elixir since 2017. These days I'm fully focused on AI-powered products with Elixir and Phoenix.
+Full-stack developer since 2012 — PHP and JavaScript early on, then Ruby on Rails, and Elixir since 2017. These days I work on making coding agents useful on real codebases: give them a plan, limit the ways they can go wrong, and check the result.
 
 ## Projects
 
+- [Kogen](https://github.com/KogenAI/kogen) — Elixir framework for coding agents. Planning, guardrails, deterministic checks, CI verification.
 - [Combobulate](https://combobulate.dev) — Build your websites just by chatting
 - [ElixirDrops](https://elixirdrops.net) — Elixir code snippets, shared by the community
 - [Skeptic.bot](https://skeptic.bot) — Podcast research assistant
