@@ -1,10 +1,10 @@
-# I build coding-agent tooling in Elixir
+# I build reliable AI-agent delivery systems
 
-Full-stack developer since 2012 — PHP and JavaScript early on, then Ruby on Rails, and Elixir since 2017. These days I work on making coding agents useful on real codebases: give them a plan, limit the ways they can go wrong, and check the result.
+I've built software since 2012 and worked with Elixir since 2017. These days I focus on making coding agents useful on real codebases: give them a plan, limit the ways they can go wrong, and check the result.
 
 ## Projects
 
-- [Kogen](https://github.com/KogenAI/kogen) — Elixir framework for coding agents. Planning, guardrails, deterministic checks, CI verification.
+- **Kogen** — A local software-delivery system that takes one explicitly approved product change through isolated implementation, repository checks, independent review, and a verified Git commit. V2 open-source release in progress.
 - [Combobulate](https://combobulate.dev) — Build your websites just by chatting
 - [ElixirDrops](https://elixirdrops.net) — Elixir code snippets, shared by the community
 - [Skeptic.bot](https://skeptic.bot) — Podcast research assistant
@@ -42,6 +42,6 @@ Full-stack developer since 2012 — PHP and JavaScript early on, then Ruby on Ra
 
 ---
 
-**Available from September 2026** for full-time or contract work, remote. Coding agents, developer tooling, and Elixir are the obvious fit — but I'll look at anything with a hard problem in it.
+**Available now** for remote full-time or contract work in AI agent reliability, developer tooling, platform engineering, CI/CD, and Elixir/Phoenix.
 
 [almirsarajcic.com](https://almirsarajcic.com) · [almir@optimum.ba](mailto:almir@optimum.ba)
