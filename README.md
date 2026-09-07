@@ -1,10 +1,10 @@
-# I build reliable AI-agent delivery systems
+# Software, developer tooling, and coding-agent workflows
 
 I've built software since 2012 and worked with Elixir since 2017. These days I focus on making coding agents useful on real codebases: give them a plan, limit the ways they can go wrong, and check the result.
 
 ## Projects
 
-- **Kogen** — A local software-delivery system that takes one explicitly approved product change through isolated implementation, repository checks, independent review, and a verified Git commit. V2 open-source release in progress.
+- [Kogen](https://kogen.dev) — I'm developing Kogen, a software-building system designed to turn a shaped feature into an accepted commit through implementation, checks, independent review, and rework. Open-source development preview. [View source](https://github.com/KogenAI/kogen).
 - [Combobulate](https://combobulate.dev) — Build your websites just by chatting
 - [ElixirDrops](https://elixirdrops.net) — Elixir code snippets, shared by the community
 - [Skeptic.bot](https://skeptic.bot) — Podcast research assistant
@@ -42,6 +42,6 @@ I've built software since 2012 and worked with Elixir since 2017. These days I f
 
 ---
 
-**Available now** for remote full-time or contract work in AI agent reliability, developer tooling, platform engineering, CI/CD, and Elixir/Phoenix.
+For engineering opportunities and workflow consulting: [almir@optimum.ba](mailto:almir@optimum.ba).
 
 [almirsarajcic.com](https://almirsarajcic.com) · [almir@optimum.ba](mailto:almir@optimum.ba)
