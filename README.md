@@ -1,13 +1,25 @@
-# I build reliable AI-agent delivery systems
+# Elixir and Phoenix consulting
 
-I've built software since 2012 and worked with Elixir since 2017. These days I focus on making coding agents useful on real codebases: give them a plan, limit the ways they can go wrong, and check the result.
+I help teams build and improve Elixir and Phoenix applications, add AI features, and make better use of coding agents. I've worked in software since 2012 and on professional Elixir projects since 2017.
 
-## Projects
+We can start with a specific application problem, a code or workflow review, or one feature taken through implementation and checks. I provide consulting through Optimum Tech.
 
-- **Kogen** — A local software-delivery system that takes one explicitly approved product change through isolated implementation, repository checks, independent review, and a verified Git commit. V2 open-source release in progress.
-- [Combobulate](https://combobulate.dev) — Build your websites just by chatting
-- [ElixirDrops](https://elixirdrops.net) — Elixir code snippets, shared by the community
-- [Skeptic.bot](https://skeptic.bot) — Podcast research assistant
+**[Discuss your project](mailto:consulting@optimum.ba)**
+
+## Products
+
+- [Kogen](https://kogen.dev/) ([source](https://github.com/KogenAI/kogen)) - A software-building system designed around feature shaping, implementation, checks and independent review.
+- [Combobulate](https://combobulate.dev/) - Build and publish static websites and Vite apps through Telegram.
+- [ElixirDrops](https://elixirdrops.net/) ([source](https://github.com/optimumBA/elixir_drops)) - A platform for publishing and discovering practical Elixir and Phoenix tips.
+- [Skeptic.bot](https://skeptic.bot/) ([source](https://github.com/optimumBA/skeptic_bot)) - Search conspiracy and alternative podcasts, ask questions, and find the episodes behind the answers.
+
+## Tools and resources
+
+- [phx.tools](https://phx.tools/) - Set up an Elixir and Phoenix development environment on Linux or macOS.
+- [Why Elixir?](https://whyelixir.dev/) - An introduction to Elixir and why we use it.
+- [OptimumCredo](https://github.com/optimumBA/optimum_credo) - Custom Credo checks for Elixir projects.
+- [GitHub Workflows Generator](https://github.com/optimumBA/github_workflows_generator) - Define GitHub Actions workflows in Elixir and generate the YAML.
+- [Optimum Templates](https://github.com/optimumBA/optimum_templates) - Phoenix generator templates that follow Optimum's Credo rules.
 
 ## Writing
 
@@ -28,7 +40,7 @@ I've built software since 2012 and worked with Elixir since 2017. These days I f
 
 — Shama Zehra of Jetzy
 
-> Almir has been an asset. Almir collaborates well with the team and takes initiative. Almir is a pleasure to work with.
+> Almir has been an asset. Almir collaborates well with the team and takes initiative. Almir is a pleasure to work with
 
 — Lorraine Francois of WeBill
 
@@ -40,8 +52,9 @@ I've built software since 2012 and worked with Elixir since 2017. These days I f
 
 — Richard Naughtin of Richard New York Real Estate
 
+
 ---
 
-**Available now** for remote full-time or contract work in AI agent reliability, developer tooling, platform engineering, CI/CD, and Elixir/Phoenix.
+For consulting on your application or development workflow: [consulting@optimum.ba](mailto:consulting@optimum.ba).
 
-[almirsarajcic.com](https://almirsarajcic.com) · [almir@optimum.ba](mailto:almir@optimum.ba)
+[almirsarajcic.com](https://almirsarajcic.com/) · [Optimum Tech](https://optimum.ba/)
