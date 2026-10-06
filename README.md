@@ -15,6 +15,7 @@ We can start with a specific application problem, a code or workflow review, or 
 
 ## Tools and resources
 
+- [elixir.menu](https://elixir.menu/) - A guide to choosing tools for Elixir applications.
 - [phx.tools](https://phx.tools/) - Set up an Elixir and Phoenix development environment on Linux or macOS.
 - [Why Elixir?](https://whyelixir.dev/) - An introduction to Elixir and why we use it.
 - [OptimumCredo](https://github.com/optimumBA/optimum_credo) - Custom Credo checks for Elixir projects.
