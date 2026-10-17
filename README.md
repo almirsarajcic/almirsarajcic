@@ -1,15 +1,25 @@
-# Elixir and Phoenix consulting
+# Software consulting and building Kogen
 
-I help teams build and improve Elixir and Phoenix applications, add AI features, and make better use of coding agents. I've worked in software since 2012 and on professional Elixir projects since 2017.
+I'm a software consultant specializing in Elixir, Phoenix and agentic development. I'm also building [Kogen](https://kogen.dev/), a software-building system in development.
 
-We can start with a specific application problem, a code or workflow review, or one feature taken through implementation and checks. I provide consulting through Optimum Tech.
+I can help you:
+
+- **Build and improve Elixir and Phoenix applications:** features, fixes and integrations.
+- **Improve development workflows:** shorten feedback loops while keeping useful checks. Improve builds, tests, CI/CD, preview environments and review practices, with or without coding agents.
+- **Make coding agents useful on your codebase:** setup, project context, task definition, review and handoff.
+
+I use coding agents to deliver software and take responsibility for the technical decisions, verification and final result. We agree on the scope, how we'll check the result and what you'll receive at handoff.
+
+I've worked in software since 2012 and on professional Elixir projects since 2017. I provide consulting through Optimum Tech.
+
+For examples of how I evaluate coding-agent workflows, [Kogen Bench](https://bench.kogen.dev/) publishes experiments, methods, evidence and their limitations.
 
 **[Discuss your project](mailto:consulting@optimum.ba)**
 
 ## Products
 
-- [Kogen](https://kogen.dev/) ([source](https://github.com/KogenAI/kogen)) - A software-building system designed around feature shaping, implementation, checks and independent review.
-- [Combobulate](https://combobulate.dev/) - Build and publish static websites and Vite apps through Telegram.
+- [Kogen](https://kogen.dev/) - A software-building system I'm developing around feature shaping, implementation, checks and independent review.
+- [Combobulate](https://combobulate.dev/) - Earlier product work on building and publishing static websites and Vite apps through Telegram. The former hosted service is retired.
 - [ElixirDrops](https://elixirdrops.net/) ([source](https://github.com/optimumBA/elixir_drops)) - A platform for publishing and discovering practical Elixir and Phoenix tips.
 - [Skeptic.bot](https://skeptic.bot/) ([source](https://github.com/optimumBA/skeptic_bot)) - Search conspiracy and alternative podcasts, ask questions, and find the episodes behind the answers.
 
