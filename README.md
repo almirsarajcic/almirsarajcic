@@ -26,11 +26,14 @@ For examples of how I evaluate coding-agent workflows, [Kogen Bench](https://ben
 ## Tools and resources
 
 - [elixir.menu](https://elixir.menu/) - A guide to choosing tools for Elixir applications.
-- [phx.tools](https://phx.tools/) - Set up an Elixir and Phoenix development environment on Linux or macOS.
 - [Why Elixir?](https://whyelixir.dev/) - An introduction to Elixir and why we use it.
 - [OptimumCredo](https://github.com/optimumBA/optimum_credo) - Custom Credo checks for Elixir projects.
 - [GitHub Workflows Generator](https://github.com/optimumBA/github_workflows_generator) - Define GitHub Actions workflows in Elixir and generate the YAML.
 - [Optimum Templates](https://github.com/optimumBA/optimum_templates) - Phoenix generator templates that follow Optimum's Credo rules.
+
+## Archived projects
+
+- [phx.tools](https://github.com/optimumBA/phx.tools) - Former Elixir and Phoenix environment setup script for Linux and macOS. Website and hosted installer retired.
 
 ## Writing
 
