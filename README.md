@@ -1,24 +1,14 @@
 # Software consulting and building Kogen
 
-I'm a software consultant specializing in Elixir, Phoenix and agentic development. I'm also building [Kogen](https://kogen.dev/), a software-building system in development.
+I’m an independent software consultant. I build features, connect APIs and fix bugs in Elixir and Phoenix applications. I also help teams speed up builds, tests and previews, and set up ways to give coding agents work and check what they did.
 
-I can help you:
+I started using Elixir on side projects in 2017 and professionally in 2020. I do consulting through [Optimum Tech, LLC](https://optimum.ba/).
 
-- **Build and improve Elixir and Phoenix applications:** features, fixes and integrations.
-- **Improve development workflows:** shorten feedback loops while keeping useful checks. Improve builds, tests, CI/CD, preview environments and review practices, with or without coding agents.
-- **Make coding agents useful on your codebase:** setup, project context, task definition, review and handoff.
-
-I use coding agents to deliver software and take responsibility for the technical decisions, verification and final result. We agree on the scope, how we'll check the result and what you'll receive at handoff.
-
-I've worked in software since 2012 and on professional Elixir projects since 2017. I provide consulting through Optimum Tech.
-
-For examples of how I evaluate coding-agent workflows, [Kogen Bench](https://bench.kogen.dev/) publishes experiments, methods, evidence and their limitations.
-
-**[Discuss your project](mailto:consulting@optimum.ba)**
+[Discuss your project](mailto:consulting@optimum.ba) · [Download CV (PDF)](https://almirsarajcic.com/Almir_Sarajcic_CV.pdf)
 
 ## Products
 
-- [Kogen](https://kogen.dev/) - A software-building system I'm developing around feature shaping, implementation, checks and independent review.
+- [Kogen](https://kogen.dev/) — You decide how a feature should work. Kogen implements it, runs the checks, gets an independent review and commits the result. I publish experiments and results at [Kogen Bench](https://bench.kogen.dev/).
 - [Combobulate](https://combobulate.dev/) - Earlier product work on building and publishing static websites and Vite apps through Telegram. The former hosted service is retired.
 - [ElixirDrops](https://elixirdrops.net/) ([source](https://github.com/optimumBA/elixir_drops)) - A platform for publishing and discovering practical Elixir and Phoenix tips.
 - [Skeptic.bot](https://skeptic.bot/) ([source](https://github.com/optimumBA/skeptic_bot)) - Search conspiracy and alternative podcasts, ask questions, and find the episodes behind the answers.
@@ -71,4 +61,4 @@ For examples of how I evaluate coding-agent workflows, [Kogen Bench](https://ben
 
 For consulting on your application or development workflow: [consulting@optimum.ba](mailto:consulting@optimum.ba).
 
-[almirsarajcic.com](https://almirsarajcic.com/) · [Optimum Tech](https://optimum.ba/)
+[almirsarajcic.com](https://almirsarajcic.com/) · [Optimum Tech, LLC](https://optimum.ba/)
