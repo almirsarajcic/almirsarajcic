@@ -9,6 +9,8 @@ I started using Elixir on side projects in 2017 and professionally in 2020. I do
 ## Products
 
 - [Kogen](https://kogen.dev/) — You decide how a feature should work. Kogen implements it, runs the checks, gets an independent review and commits the result. I publish experiments and results at [Kogen Bench](https://bench.kogen.dev/).
+- [Vibe Coding for Adults](https://vibecodingforadults.com/) — A practical course on writing, testing and improving your own skills, rules and workflows for coding agents.
+- [Who Does AI?](https://whodoes.ai/) — Private introductions between teams with a specific AI project and people with relevant experience.
 - [Combobulate](https://combobulate.dev/) - Earlier product work on building and publishing static websites and Vite apps through Telegram. The former hosted service is retired.
 - [ElixirDrops](https://elixirdrops.net/) ([source](https://github.com/optimumBA/elixir_drops)) - A platform for publishing and discovering practical Elixir and Phoenix tips.
 - [Skeptic.bot](https://skeptic.bot/) ([source](https://github.com/optimumBA/skeptic_bot)) - Search conspiracy and alternative podcasts, ask questions, and find the episodes behind the answers.
